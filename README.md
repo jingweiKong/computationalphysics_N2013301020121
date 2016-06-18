@@ -12,5 +12,9 @@ You are what you believe
 
 ###第六次作业
 - [第六次作业](https://www.zybuluo.com/xiaokong/note/410387)
+
 ###第七次作业
 - [第七次作业](https://www.zybuluo.com/xiaokong/note/411920)
+
+###第八次作业
+- [第八次作业]()
