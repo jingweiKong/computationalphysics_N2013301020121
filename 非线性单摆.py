@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 20 15:37:21 2016
 
-@author: 周辉
-"""
 
 from __future__ import division
 from numpy import *
