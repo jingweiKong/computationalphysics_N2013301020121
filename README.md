@@ -47,5 +47,8 @@
 ###第十一次作业
 - [第十一次作业](https://www.zybuluo.com/xiaokong/note/414167)
 
+###第十二次作业
+- [第十二次作业](https://www.zybuluo.com/xiaokong/note/414542)
+
 ###期末作业
 - [期末作业](https://github.com/jingweiKong/computationalphysics_N2013301020121/blob/master/期末作业.pdf)
